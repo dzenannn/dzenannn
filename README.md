@@ -25,9 +25,6 @@
 📧 **Email**: [mecinovicdzenan1@gmail.com](mailto:mecinovicdzenan1@gmail.com)  
 💼 **LinkedIn**: [Dženan Mecinović]([https://www.linkedin.com/in/dzenan-mecinovic](https://www.linkedin.com/in/dzenan-mecinovic-209156317/))
 
-## 💬 Fun Facts About Me
-
-🎮 I’m a huge fan of gaming and love exploring how game design influences web development. <br/>
-🌍 I dream of building tech solutions that make the world a better place.  
+---
 
 ⭐ Thanks for stopping by! Let’s build something amazing together! 🚀
