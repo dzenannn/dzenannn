@@ -27,7 +27,7 @@
 
 ## 💬 Fun Facts About Me
 
-🎮 I’m a huge fan of gaming and love exploring how game design influences web development.
+🎮 I’m a huge fan of gaming and love exploring how game design influences web development. <br/>
 🌍 I dream of building tech solutions that make the world a better place.  
 
 ⭐ Thanks for stopping by! Let’s build something amazing together! 🚀
