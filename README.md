@@ -17,8 +17,8 @@
 ## 🌱 What I’m Learning Now
 
 🧠 Always expanding my knowledge! Currently diving deeper into:
-- PHP & Laravel
-- Microservices architecture  
+- PHP
+- MySQL Database  
 
 ## 📫 Let’s Connect!
 
