@@ -23,7 +23,7 @@
 ## 📫 Let’s Connect!
 
 📧 **Email**: [mecinovicdzenan1@gmail.com](mailto:mecinovicdzenan1@gmail.com)  
-💼 **LinkedIn**: [Dženan Mecinović]([https://www.linkedin.com/in/dzenan-mecinovic](https://www.linkedin.com/in/dzenan-mecinovic-209156317/))
+💼 **LinkedIn**: [Dženan Mecinović](https://www.linkedin.com/in/dzenan-mecinovic-209156317/)
 
 ---
 
