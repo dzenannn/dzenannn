@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 🔥 **Frontend**: VueJS (primary), ReactJS, NextJS, Angular  
-⚡ **Backend**: Java, PHP (primary)
+⚡ **Backend**: Java, PHP (primary)  
 ✨ **Languages**: TypeScript, JavaScript, Java  
 🎨 **Styling**: TailwindCSS, CSS3  
 🔧 **Tools**: Git, Vite
