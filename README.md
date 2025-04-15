@@ -8,8 +8,8 @@
 
 ## 🛠️ Tech Stack
 
-🔥 **Frontend**: VueJS, ReactJS, NextJS, Angular  
-⚡ **Backend**: Java  
+🔥 **Frontend**: VueJS (primary), ReactJS, NextJS, Angular  
+⚡ **Backend**: Java, PHP (primary)
 ✨ **Languages**: TypeScript, JavaScript, Java  
 🎨 **Styling**: TailwindCSS, CSS3  
 🔧 **Tools**: Git, Vite
@@ -18,7 +18,7 @@
 
 🧠 Always expanding my knowledge! Currently diving deeper into:
 - PHP
-- MySQL Database  
+- MySQL Database
 
 ## 📫 Let’s Connect!
 
