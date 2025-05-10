@@ -18,7 +18,7 @@
 
 🧠 Always expanding my knowledge! Currently diving deeper into:
 - PHP
-- MySQL Database
+- VueJS Frameworks
 
 ## 📫 Let’s Connect!
 
